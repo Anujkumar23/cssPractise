@@ -1,0 +1,62 @@
+/* CSS Element Selector */
+/* The element selector select the HTML element based on the element name.
+ */
+ /* p{
+    text-align:center;
+    color:red;
+ } */
+
+ /* CSS ID Selector
+ The id  Selector uses the id attribute of an HTML element to select a specific element.
+ The id of an an element is unique ,so id selector is used to select the unique element.
+ To select the element with a specific id we use (#) character ,followed by the id of the element. */
+/*  
+ #para1{
+    text-align:center;
+    color:blue;
+ } */
+
+
+ /* CSS Class Selector */
+ /* The class selector select the HTML element with a specific class attribute.
+ To select a element with a specific class,we use(.)followed by the class name.
+  */
+
+  /* .center{
+    text-align:center;
+    color:aqua;
+  } */
+/* 
+  h1.center{
+    text-align: center;
+    color:yellow;
+  } */
+
+
+  /* We can give multiple class to HTML element. */
+  /* h2.center{
+    text-align: center;
+    color:red;
+  }
+
+  h2.large{
+    font-size:300%;
+  } */
+
+
+  /* CSS  Universal Selector*/
+  /* The Uiversal Selector select all HTML element On the page. */
+
+  /* * {
+    text-align: right;
+    color: blue;
+  } */
+
+  /* CSS Grouping Selector */
+  /* Grouping Selector is better to miimize the code. */
+  /* In Grouping Selector we seperate each selector with comma. */
+/* 
+  h1,h2,p{
+    text-align:center;
+    color:red;
+  } */

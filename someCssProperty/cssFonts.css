@@ -1,0 +1,25 @@
+.p1{
+    font-family:"Times New Roman",Times,serif;
+    font-style:nomal;
+    font-weight: normal;
+    font-variant:normal;
+    font-size:40px;
+}
+
+.p2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:italic;
+    font-weight:bold;
+    font-variant:small-caps;
+    font-size: 2.5em;
+}
+
+.p3{
+    font-family: "Lusida Console","Courier New",monospace;
+    font-family:oblique;
+    font-weight: lighter;
+    font-size: 1.875;
+}
+
+
+

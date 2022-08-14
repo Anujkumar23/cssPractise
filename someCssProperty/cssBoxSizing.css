@@ -1,0 +1,15 @@
+.div1{
+    width:300px;
+    height:100px;
+    border:1px solid blue;
+}
+
+
+.div2{
+    width:300px;
+    height:100px;
+    padding:50px;
+    border:1px solid red;
+    box-sizing:border-box;
+}
+/* when we use the box-sizing:border-box it will inculde the border and paddind in the height and width of the element. */
