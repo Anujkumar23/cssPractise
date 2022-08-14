@@ -1,0 +1,40 @@
+.header h2{
+   
+    text-align: center;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#000
+}
+.row{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+
+}
+.item1{
+margin-top:10px;
+margin-left:75px;
+/* margin-left:10px */
+}
+.item2{
+    margin-top:10px;
+}
+.item3{
+    margin-top:10px;
+}
+.item4{
+    margin-top:10px;
+}
+.item5{
+    margin-top:10px;
+    margin-right:75px;
+} 
+.img1{
+
+
+}
+h3{
+    text-align: center;
+
+}

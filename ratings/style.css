@@ -1,0 +1,36 @@
+.main{
+    background-color:blanchedalmond;
+    width:600px;
+    
+}
+.container{
+    margin-top:15px ;
+    display:flex;
+    align-items: center;
+    flex-wrap:wrap;
+    flex-direction:row;
+    background-color:#fffe;
+    border-radius: 15px;
+    box-sizing: border-box;
+   
+ 
+}
+.img-box{
+    margin:10px;
+    margin-left: 10px;
+   
+}
+.img{
+    padding-left:10px;
+}
+
+.info{
+    /* border: 1px solid black; */
+    padding:5px;
+    margin:15px;
+}
+.para a{
+    text-decoration: none;
+    color:rgb(15, 125, 214)
+
+}
